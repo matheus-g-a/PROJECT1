@@ -20,7 +20,8 @@ The data analysis that went into obtaining these results can be found in the Jup
 
 ## Top 10 Beers Consumed by Americans 
 
-In order to figure out which beers Americans love the most, we first had to find data on beer sold in America and sales or rating information. It turns out that sales data is very difficult to attain with a free API, so we relied on csv files that were compiled of different kinds of canned beer sold in the U.S.
+In order to figure out which beers Americans love the most, we first had to find data on beer sold in America and sales or rating information. It turns out that sales data is very difficult to attain with a free API, so we relied on csv files that were compiled of different kinds of canned beer sold in the U.S. We also examined data that included comprehensive consumer review information about the appearance, aroma, palate, and taste profiles of many different styles of beer.
 
 ### Results
 
+According to the data, the most popular beer for Americans is American IPA. This beer is typically described as being floral, fruity and aromatic, and has an average alcohol by volume of 6.9%. The data showed us that aromatic beers tended to have higher rating. American Pale Ale comes in second with a softer and less bitter mouth feel, and overall lower percentage of alcohol by volume of 5.6%. 
