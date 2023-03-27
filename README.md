@@ -24,4 +24,4 @@ In order to figure out which beers Americans love the most, we first had to find
 
 ### Results
 
-According to the data, the most popular beer for Americans is American IPA. This beer is typically described as being floral, fruity and aromatic, and has an average alcohol by volume of 6.9%. The data showed us that aromatic beers tended to have higher rating. American Pale Ale comes in second with a softer and less bitter mouth feel, and overall lower percentage of alcohol by volume of 5.6%. 
+According to the data, the most popular beer for Americans is American IPA. This beer is typically described as being floral, fruity and aromatic, and has an average alcohol by volume of 6.9%. American Pale Ale comes in second with a softer and less bitter mouth feel, and overall lower percentage of alcohol by volume of 5.6%. The data showed us that aromatic beers tended to have higher rating, whereas astringency is often associated with a lower rating. 
