@@ -18,13 +18,13 @@ Overall, there were 11,584 breweries with operating permits accross the United S
 
 The data analysis that went into obtaining these results can be found in the Jupyter notebook file entitled "brewery_state_population.ipynb". [brewery_state_population.ipynb](https://github.com/matheus-g-a/PROJECT1/blob/b1c76f4f8873b6b84ebe898292d1b75abf1e0db4/brewery_state_population.ipynb)
 
-## Top 10 Beers Consumed by Americans 
+## Top 10 Beers Consumed by Americans
 
-In order to figure out which beers Americans love the most, we first had to find data on beer sold in America and sales or rating information. It turns out that sales data is very difficult to attain with a free API, so we relied on csv files that were compiled of different kinds of canned beer sold in the U.S. We also examined data that included comprehensive consumer review information about the appearance, aroma, palate, and taste profiles of many different styles of beer.
+In order to figure out which beers Americans love the most, we first had to find data on the kinds of beer sold in America using sales and ratings information. Although beer revenue in the U.S. amounts to approximately $120 billion dollars annually, it turns out that raw sales data is very difficult to attain. We relied on CSV files of different kinds of craft beer sold in the U.S., as well as data that included comprehensive consumer review information about the appearance, aroma, palate, and taste profiles of many different styles of beer. 
 
-### Results
+## Results
 
-According to the data, the most popular beer for Americans is American IPA. This beer is typically described as being floral, fruity and aromatic, and has an average alcohol by volume of 6.9%. American Pale Ale comes in second with a softer and less bitter mouth feel, and overall lower percentage of alcohol by volume of 5.6%. The data showed us that aromatic beers tended to have higher rating, whereas astringency is often associated with a lower rating. 
+According to the data, the most popular beer for Americans is American IPA. This beer is typically described as being floral, fruity and aromatic, and has an average alcohol by volume of 6.9%. American Pale Ale comes in second with a softer and less bitter mouth feel, and an overall lower percentage of alcohol by volume at 5.6%. The third most popular beer should also be noted for having only 4.77% alcohol by volume on average, suggesting that American's prefer their beer to come with fuzzy feelings of happiness. The data losely suggests that aromatic and fruity beers tended to have higher rating, whereas astringency is often associated with a lower rating. However, it should be stated that no strong correlations between flavor and ratings could be deciphered, suggesting that a cold beer is a good beer.
 
 
 ## Age Groups vs Brewery Count
